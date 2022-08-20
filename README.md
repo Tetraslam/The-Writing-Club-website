@@ -1,1 +1,3 @@
-# The-Writing-Club-website
+# The Writing Club website
+
+- [ ] TailwindCSS
